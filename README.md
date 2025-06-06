@@ -7,3 +7,6 @@ DOCKERHUB_USERNAME -> username docker hub
 DOCKERHUB_TOKEN -> secret token docker hub
 
 добавляем их в настройках репозитория
+
+
+https://www.youtube.com/watch?v=J5GP1WNKyeo
